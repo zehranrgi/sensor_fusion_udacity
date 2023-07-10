@@ -17,12 +17,12 @@ There are 3 things done at this lesson code:
 3 -> How to create renderPointCloud and see the environment without renderScene
 
 # Note for who works with Mac: 
-When I tried to cmake.. , there is problem with finding Qt5(I checked the course github, others also faced with same issue).So, as a solution find the package path w/ brew info.
+When I tried to cmake.. , there is problem with finding Qt5(I checked the course github, others also faced with same issue).So, as a solution find the package path w/ ``` brew info. ```
 
- Then, add this path to CMakeLists.txt as for example: set(Qt5_DIR /opt/homebrew/Cellar/qt@5/5.15.8_3/lib/cmake/Qt5) . 
+ Then, add this path to CMakeLists.txt as for example: ``` set(Qt5_DIR /opt/homebrew/Cellar/qt@5/5.15.8_3/lib/cmake/Qt5) ```  
 
 Also, change your findpackage version (in the Cmakelists file) to your version. 
-For example, for me: find_package(PCL 1.13 REQUIRED). One more note to here, delete the cache files after you solved this issue w/ like that. 
+For example, for me: ``` find_package(PCL 1.13 REQUIRED)``` One more note to here, delete the cache files after you solved this issue w/ like that. 
 
 
 
@@ -33,7 +33,7 @@ For example, for me: find_package(PCL 1.13 REQUIRED). One more note to here, del
 
 
 
-Introduction from the Udacity
+## Introduction from the Udacity
 ### Welcome to the Sensor Fusion course for self-driving cars.
 
 In this course we will be talking about sensor fusion, whch is the process of taking data from multiple sensors and combining it to give us a better understanding of the world around us. we will mostly be focusing on two sensors, lidar, and radar. By the end we will be fusing the data from these two sensors to track multiple cars on the road, estimating their positions and speed.
