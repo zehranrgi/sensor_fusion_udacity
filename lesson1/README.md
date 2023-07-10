@@ -12,14 +12,7 @@ In this course we will be talking about sensor fusion, whch is the process of ta
 
 **Sensor Fusion** by combing lidar's high resolution imaging with radar's ability to measure velocity of objects we can get a better understanding of the sorrounding environment than we could using one of the sensors alone.
 
-## Classroom Workspace
 
-The workspace provided in the SFND classroom comes preinstallated with everything that you need to finish the exercises and projects. Versions used by Udacity for this ND are as follows:
-
-* Ubuntu 16.04
-* PCL - v1.7.2
-* C++ v11
-* gcc v5.5
 
 **Note** The [[CMakeLists.txt](https://github.com/udacity/SFND_Lidar_Obstacle_Detection/blob/master/CMakeLists.txt)] file provided in this repo can be used locally if you have the same package versions as mentioned above. If you want to run this project locally (outside the Udacity workspace), please follow the steps under the **Local Installation** section.
 
@@ -144,8 +137,6 @@ If you get build errors related to Qt5, make sure that the path for Qt5 is corre
    make
    ./environment
    ```
-
-#### Build from Source
 
 [PCL Source Github](https://github.com/PointCloudLibrary/pcl)
 
