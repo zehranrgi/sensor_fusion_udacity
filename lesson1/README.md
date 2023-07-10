@@ -1,7 +1,7 @@
 # Sensor Fusion Self-Driving Car Course
 
-
-<img src="lesson1/lesson1output.png" width="700" height="400" />
+![](https://github.com/zehranrgi/sensor_fusion_udacity/blob/b6684b5390b9685a27de3c30ecee44f78618d304/lesson1/media/lesson1output.png
+)
 
 ## Lesson-1 Notes: 
 
