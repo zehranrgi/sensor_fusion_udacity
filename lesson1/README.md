@@ -1,7 +1,7 @@
 # Sensor Fusion Self-Driving Car Course
 
 
-<img src="lesson1/Screenshot 2023-07-10 at 12.45.11 PM.png" width="700" height="400" />
+<img src="lesson1/lesson1output.png" width="700" height="400" />
 
 ## Lesson-1 Notes: 
 
