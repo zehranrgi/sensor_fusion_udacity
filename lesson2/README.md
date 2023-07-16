@@ -15,3 +15,6 @@ RANSAC is a technique used to identify outliers in data. It operates by randomly
 The points that belong to the road from the points that belong to the scene will be seperated with this lesson code. with the ```std::pair```, it will help us to hold our segmented results as obstacle the point cloud and the road point cloud. 
 
 ```PointT``` means that it can handle pointxyz, pointrgb or pointxyzi whatever it will take. 
+
+
+![](https://github.com/zehranrgi/sensor_fusion_udacity/blob/fcdd043b320d5ea3648cf6ddb4ee04941eda7ed7/lesson2/lesson2-ouput.png)
