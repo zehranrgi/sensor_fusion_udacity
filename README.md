@@ -6,8 +6,11 @@ This repo will contain all of the codes and notes that I done at the Udacity Sen
  [Lesson-1](https://github.com/zehranrgi/sensor_fusion_udacity/tree/35a907a12556071207bc27fe2b5c28aa3fa91ab0/lesson1)
 Introduction to Lidar and Point Clouds 
 
- [Lesson-2]()
+ [Lesson-2](https://github.com/zehranrgi/sensor_fusion_udacity/tree/52c60d7d63f7945fed6fded0ad8dd96ad7aaabe2/lesson2)
 Point Cloud Segmentation (RANSAC etc.) 
+
+ [Lesson-3]()
+Clustering Obstacles
 
 
  
