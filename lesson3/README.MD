@@ -26,8 +26,8 @@ A KD-Tree is a binary tree structure used for organizing points by splitting reg
 
 ## Bounding Box: 
 
-Box box = pointProcessor->BoundingBox(cluster);
-renderBox(viewer,box,clusterId);
+```Box box = pointProcessor->BoundingBox(cluster);```
+```renderBox(viewer,box,clusterId);```
 
 
 Bbox defines the boundaries within which the car is not allowed to enter, as doing so would result in a collision. By staying outside of the bounding box volume, the car ensures safe navigation and avoids potential accidents.
