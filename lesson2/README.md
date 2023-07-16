@@ -12,6 +12,6 @@ RANSAC is a technique used to identify outliers in data. It operates by randomly
 
 ## PCL to Segment Plane
 
-The points that belong to the road from the points that belong to the scene will be seperated with this lesson code. with the '''std::pair''', it will help us to hold our segmented results as obstacle the point cloud and the road point cloud. 
+The points that belong to the road from the points that belong to the scene will be seperated with this lesson code. with the ```std::pair```, it will help us to hold our segmented results as obstacle the point cloud and the road point cloud. 
 
-'''PointT''' means that it can handle pointxyz, pointrgb or pointxyzi whatever it will take. 
+```PointT``` means that it can handle pointxyz, pointrgb or pointxyzi whatever it will take. 
